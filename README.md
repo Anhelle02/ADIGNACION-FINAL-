@@ -1,110 +1,32 @@
- %% [markdown]
-# # My notebook 1 the Data Science
 
-# %% [markdown]
-# ## ## Introduction to Data Science Languages
-# In the field of data science, various programming languages are used for analysis and visualization. Here are some commonly used data science languages:
-# 
-# - R
-# -  MATLAB
-# - SQL
-# - MatplotlibPython
-# 
-# 
-# 
+# My notebook 1 the Data Science
 
-# %% [markdown]
-# 
+## Introduction to Data Science Languages
 
-# %% [markdown]
-# ## ## Data Science Libraries
-# 
-# - Pandas
-# - NumPy
-# - Matplotlib
-# 
-# 
-# 
+In the field of data science, various programming languages are used for analysis and visualization. Here are some commonly used data science languages:
 
-# %% [markdown]
-# ## # Define variables
-# a= 6
-# b=3
-# 
-# 
-# 
-# 
-# 
+- R
+- MATLAB
+- SQL
+- Python
 
-# %% [markdown]
-# ## Data Science Tools
-# 
-# | Tool         | Description                              |
-# |--------------|------------------------------------------|
-# | Jupyter      | Interactive notebook for data analysis   |
-# | TensorFlow   | Open-source machine 
-# 
-# 
-# 
-# 
-# 
-# 
+## Data Science Libraries
 
-# %% [markdown]
-# ## # Define variables
-# a= 6
-# b=3
-# 
-# 
-# 
-# 
-# 
+In data science, various libraries are used to facilitate tasks such as data manipulation, visualization, and machine learning. Here are some commonly used data science libraries:
 
-# %%
-### Arithmetic Expressions
+- Pandas
+- NumPy
+- Matplotlib
 
+## Data Science Tools
+
+| Tool       | Description                            |
+|------------|----------------------------------------|
+| Jupyter    | Interactive notebook for data analysis |
+| TensorFlow | Open-source machine learning framework |
+
+## Define variables
+
+```python
 a = 6
 b = 3
-
-# Multiply
-multiply_result = a * b
-print("Multiplication result:", multiply_result)
-
-# Add
-add_result = a + b
-print("Addition result:", add_result)
-
-
-# %% [markdown]
-# # # Definir la cantidad de minutos
-# minutes = 150
-# 
-
-# %%
-minutes = 150
-
-# Convert minutes to hours
-hours = minutes / 60
-
-print(minutes, "minutes is equal to", hours, "hours")
-
-# %% [markdown]
-# # ## Objetivos
-# 
-# - Aprender sobre herramientas de ciencia de datos.
-# - Practicar expresiones aritméticas.
-# - Compartir conocimientos sobre lenguajes y bibliotecas de ciencia de datos.
-# 
-# 
-# 
-
-# %% [markdown]
-# # ## Autor
-# 
-# Este cuaderno fue creado por [Nombre del autor].
-# Date: [Date] Affiliation: [Your Affiliation or Organization]
-# 
-
-# %%
-
-
